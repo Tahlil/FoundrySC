@@ -11,6 +11,15 @@ Foundry consists of:
   sending transactions and getting chain data.
 - [**Anvil**](./anvil): local Ethereum node, akin to Ganache, Hardhat Network
 
+## Preffered VS code extenstion
+-Name: Better TOML
+Id: bungcip.better-toml
+Description: Better TOML Language support
+Version: 0.3.2
+Publisher: bungcip
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
+
+
 ## Installation
 
 *Having issues? See the [troubleshooting section](#troubleshooting-installation)*.
