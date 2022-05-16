@@ -29,4 +29,4 @@ Then, run `foundryup` in a new terminal session or Run `source /Users/{username}
 `anvil --version`
 
 ## Creating Foundry project
-`foundry init`
+`forge init`
