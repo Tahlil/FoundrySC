@@ -30,3 +30,9 @@ Then, run `foundryup` in a new terminal session or Run `source /Users/{username}
 
 ## Creating Foundry project
 `forge init`
+
+## Install Openzepplin contracts
+`forge install Openzepplin/openzepplin-contracts`
+
+## Compile contract(s)
+`forge build`
